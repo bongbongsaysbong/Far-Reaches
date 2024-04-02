@@ -1,0 +1,201 @@
+{
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:all_of",
+      "terms": [
+        {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetZ": 1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 1,
+          "offsetZ": 1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:all_of",
+      "terms": [
+        {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": -1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetZ": 1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": -1,
+          "offsetZ": 1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:all_of",
+      "terms": [
+        {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": -1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetZ": -1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": -1,
+          "offsetZ": -1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:all_of",
+      "terms": [
+        {
+          "condition": "minecraft:location_check",
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetZ": -1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 1,
+          "offsetZ": -1,
+          "predicate": {
+            "block": {
+              "blocks": [
+                "minecraft:jungle_sapling"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

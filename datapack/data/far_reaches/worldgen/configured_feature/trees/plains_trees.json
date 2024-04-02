@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.33333334,
+        "feature": {
+          "feature": "minecraft:fancy_oak_bees_005",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.5,
+        "feature": {
+          "feature": "far_reaches:trees/oak_bush",
+          "placement": []
+        }
+      }
+    ],
+    "default": {
+      "feature": "minecraft:oak_bees_005",
+      "placement": []
+    }
+  }
+}

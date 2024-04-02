@@ -1,0 +1,12 @@
+{
+  "feature": "far_reaches:trees/damp_grotto_fungi",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 7
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

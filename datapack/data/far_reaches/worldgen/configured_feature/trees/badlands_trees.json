@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "minecraft:oak"
+      }
+    ],
+    "default": "far_reaches:trees/badlands_tree"
+  }
+}

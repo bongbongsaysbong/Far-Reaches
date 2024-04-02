@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.5,
+        "feature": "far_reaches:trees/tall_birch_tree"
+      },
+      {
+        "chance": 0.1,
+        "feature": "far_reaches:trees/flower_tree"
+      }
+    ],
+    "default": "minecraft:birch_bees_0002"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "minecraft:fancy_oak_bees_002"
+      }
+    ],
+    "default": "far_reaches:trees/meadow_tree"
+  }
+}

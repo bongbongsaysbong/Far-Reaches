@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "minecraft:spruce"
+      },
+      {
+        "chance": 0.4,
+        "feature": "far_reaches:trees/boreal_tree"
+      }
+    ],
+    "default": "far_reaches:trees/snowy_spruce_tree"
+  }
+}

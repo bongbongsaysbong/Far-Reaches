@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:dead_fire_coral",
+            "Properties": {
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:dead_fire_coral_fan",
+            "Properties": {
+              "waterlogged": "false"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

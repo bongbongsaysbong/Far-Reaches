@@ -1,0 +1,10 @@
+{
+   "pack":{
+      "pack_format": 26,
+      "description": [
+		{"text":"Far Reaches","color":"#66bcd4"},
+		{"text":" | ","color":"#486666"},
+		{"text":"v0.1.0","color":"#52fad0"}
+	  ]
+   }
+}

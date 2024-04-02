@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:mud",
+    "minecraft:dirt",
+    "minecraft:deepslate",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:andesite",
+    "minecraft:diorite",
+    "minecraft:calcite"
+  ]
+}
