@@ -2,7 +2,7 @@
   "parent": "far_reaches:technical/root",
   "criteria": {
     "requirement": {
-      "trigger": "minecraft:item_used_on_block",
+      "trigger": "minecraft:any_block_use",
       "conditions": {
         "location": [
           {
@@ -17,7 +17,7 @@
             "condition": "minecraft:location_check",
             "predicate": {
               "block": {
-                "tag": "minecraft:saplings"
+                "blocks": "#minecraft:saplings"
               }
             }
           }

@@ -1,0 +1,6 @@
+{
+  "angry_texture": "minecraft:entity/wolf/wolf_chestnut_angry",
+  "biomes": "#far_reaches:wolf_variant/woods",
+  "tame_texture": "minecraft:entity/wolf/wolf_chestnut_tame",
+  "wild_texture": "minecraft:entity/wolf/wolf_chestnut"
+}

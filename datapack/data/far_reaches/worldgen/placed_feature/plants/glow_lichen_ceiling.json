@@ -5,10 +5,8 @@
       "type": "minecraft:count_on_every_layer",
       "count": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 240,
-          "max_inclusive": 250
-        }
+        "min_inclusive": 240,
+        "max_inclusive": 250
       }
     },
     {

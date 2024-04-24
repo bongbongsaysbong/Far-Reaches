@@ -56,6 +56,12 @@
         "weight": 8,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:wolf",
+        "weight": 3,
+        "minCount": 4,
+        "maxCount": 4
       }
     ],
     "misc": [],
