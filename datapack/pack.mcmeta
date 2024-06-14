@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 41,
+    "pack_format": 48,
     "description": [
       {
         "text": "Far Reaches",
@@ -11,7 +11,7 @@
         "color": "#486666"
       },
       {
-        "text": "v0.1.1",
+        "text": "v0.1.2",
         "color": "#52fad0"
       }
     ]
